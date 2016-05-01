@@ -38,5 +38,5 @@ https://github.com/m00s/angular-aviary
 --------------------
  PREVIEW
 ____________________
-![My image](username.github.com/tadabanri/aviary-web-sample/preview0.jpg)
-![My image](username.github.com/tadabanri/aviary-web-sample/preview.jpg)
+![My image](tadabanri.github.com/aviary-web-sample/image/preview0.jpg)
+![My image](tadabanri.github.com/aviary-web-sample/image/preview.jpg)
