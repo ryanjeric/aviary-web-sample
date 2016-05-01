@@ -1,8 +1,8 @@
 #AVIARY SDK WEB SAMPLE
 
-DEMO : https://tadabanri.github.io
+DEMO : http://tadabanri.github.io
 ----------------------------------
-NOTE : In viewing the edited image Wait for the image to load :D
+BUG : In viewing the edited image Wait for the image to load :D 10-15 seconds.
 
 #FEATURES 
 __________________________________
