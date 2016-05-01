@@ -9,7 +9,7 @@ __________________________________
 	-Image upload With Preview
 	-Edit Image
 	-Preview Edited Image.
-	-"SPECIAL FUNCTION"
+	-SPECIAL FEATURE
 		-LICK TO EDIT :P
 __________________________________
 
@@ -24,5 +24,5 @@ https://creativesdk.adobe.com/docs/web/#/articles/gettingstarted/index.html
 --------------------------------
  PREVIEW
 ____________________
-![My image](https://github.com/tadabanri/aviary-web-sample/tree/master/image/preview0.jpg)
-![My image](https://github.com/tadabanri/aviary-web-sample/tree/master/image/preview.jpg)
+![My image](https://raw.githubusercontent.com/tadabanri/aviary-web-sample/master/image/preview0.jpg)
+![My image](https://raw.githubusercontent.com/tadabanri/aviary-web-sample/master/image/preview.jpg)
