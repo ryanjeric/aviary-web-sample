@@ -35,4 +35,3 @@ https://github.com/m00s/angular-aviary
 ____________________
 ![My image](username.github.com/repository/image/preview0.jpg)
 ![My image](username.github.com/repository/image/preview.jpg)
-
