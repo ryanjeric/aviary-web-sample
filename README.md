@@ -1,7 +1,12 @@
 **#AVIARY SDK WEB SAMPLE**
+
+DEMO : tadabanri.github.io
+NOTE : In viewing the edited image Wait for the image to load :D
+
 __________________________________
 ##OPAK OPAK OPAK!!
 >MY API KEY
+==================================
 3bd340a5f6f64126a9ecb1a9e757bc4c
 [js/aviary.js in line 19]
 feel free to use it.
@@ -33,5 +38,5 @@ https://github.com/m00s/angular-aviary
 --------------------
  PREVIEW
 ____________________
-![My image](username.github.com/repository/image/preview0.jpg)
-![My image](username.github.com/repository/image/preview.jpg)
+![My image](username.github.com/tadabanri/aviary-web-sample/preview0.jpg)
+![My image](username.github.com/tadabanri/aviary-web-sample/preview.jpg)
