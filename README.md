@@ -8,9 +8,7 @@ BUG : In viewing the edited image Wait for the image to load :D 10-15 seconds.
 __________________________________
 	-Image upload With Preview
 	-Edit Image
-	-Preview Edited Image.
-	-SPECIAL FEATURE
-		-LICK TO EDIT :P
+	-Preview Edit Image.
 __________________________________
 
 NEED HELP IN SAVING TO AMAZON S3
